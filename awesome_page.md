@@ -1,6 +1,6 @@
 # GPS 1.1 !
 
-## **First** *Pairing*
+## **First** *Pairing* Small Conflict
 
     def first_pairing
       puts "This is fun!"
